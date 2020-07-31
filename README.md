@@ -1,4 +1,4 @@
-# DebuggingGer
+# DOCS
 
 # To start using Calamar X You must Send A Friend Request To ItsNoxy#2526.
 
